@@ -136,7 +136,7 @@ void SysTick_Handler(void)
 {
 	task1HeartBeat++;
 	task2HeartBeat++;
-	//task3HeartBeat++;
+	task3HeartBeat++;
 }
 
 /******************************************************************************/
